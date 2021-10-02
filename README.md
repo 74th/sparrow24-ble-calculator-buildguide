@@ -1,6 +1,6 @@
 # Sparrow62 BLE Calculator ビルドガイド
 
-## features 特徴
+## 特徴
 
 - ESP32 マイコンを用いて、Bluetooth キーボードとして動作するテンキーパッド（ESP32 なので技適は問題なし）
 - モードを切り替えると電卓として動作する
@@ -67,6 +67,34 @@
 - テンキー用キーキャップ及び追加キー用キーキャップ
   - 1U x 20(2U が 3 個の場合) ~ 24(全て 1U の場合)
   - 2U x 0(全て 1U の場合) ~ 3(2U が 3 個の場合)
+
+## 組み立てに必要なもの
+
+### 必ず必要なもの
+
+- はんだごて （ https://www.amazon.co.jp/dp/B001PR1KLK/ など）
+- はんだごて台 （ https://www.amazon.co.jp/dp/B0090UJGOW/ など）
+- はんだ （ https://www.amazon.co.jp/dp/B0029LGAJI/ や https://www.amazon.co.jp/dp/B0076RPYF6/ など）
+- ニッパー （ https://www.amazon.co.jp/dp/B001PR1MRC/ など）
+- 精密ドライバー(M2 ネジ用)
+
+### あるとよいもの
+
+- 作業マット （ https://www.amazon.co.jp/gp/product/B088KG28ZC/ など）
+- フラックス （ https://www.amazon.co.jp/dp/B002H3NKL4/ など）
+- フラックス除去剤 （ https://www.amazon.co.jp/dp/B01GROTPEE/ など）
+- ハンダ吸い取り線 （ https://www.amazon.co.jp/dp/B001PR1KPQ/ など）
+- ラジオペンチ（スペーサーを固く締めるのに）
+
+## ファームウェアの更新に必要なもの
+
+- PC(Mac/Windows/Linux)
+- UART USB シリアル変換
+  - [CH340E USB シリアル変換モジュール Type-C AE-CH340E-TYPEC](https://akizukidenshi.com/catalog/g/gK-14745/) など
+- ブレットボード用ジャンパ線 （USB シリアル変換と、UART ポートをつなげるもの）
+  - https://akizukidenshi.com/catalog/g/gC-05371/
+  - https://www.amazon.co.jp/dp/B07LG6R78R/
+- USB ケーブル
 
 ## 組み立て手順
 
