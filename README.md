@@ -42,9 +42,9 @@
 - [丸ピン 1x14 OLED 用](https://akizukidenshi.com/catalog/g/gP-01698/) x1
 - [M2 4mm ネジ](https://www.monotaro.com/p/4926/2744/?displayId=5) x12
 - [M2 8mm ネジ](https://www.monotaro.com/p/4926/2586/) x6
-- M2 7mm スペーサー x4
-- M2 3mm スペーサー x6
-- M2 5mm スペーサー x6
+- [M2 7mm スペーサー](https://www.monotaro.com/p/1115/0773/) x4
+- [M2 3mm スペーサー](https://www.monotaro.com/p/1115/0694/) x6
+- [M2 5mm スペーサー](https://www.monotaro.com/p/1115/0737/) x6
 
 ### 追加で必要なもの
 
