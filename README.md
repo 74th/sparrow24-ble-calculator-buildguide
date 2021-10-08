@@ -39,7 +39,6 @@
 - [ピンソケット 1x7 JTAG 用](https://akizukidenshi.com/catalog/g/gC-05779/) x1
 - [ピンソケット 1x2 電池電源用](https://akizukidenshi.com/catalog/g/gC-05779/) x1
 - [丸ピンソケット 1x14 OLED 用](https://akizukidenshi.com/catalog/g/gP-01591/) x1
-- [丸ピン 1x14 OLED 用](https://akizukidenshi.com/catalog/g/gP-01698/) x1
 - [M2 4mm ネジ](https://www.monotaro.com/p/4926/2744/?displayId=5) x12
 - [M2 8mm ネジ](https://www.monotaro.com/p/4926/2586/) x6
 - [M2 7mm スペーサー](https://www.monotaro.com/p/1115/0773/) x4
@@ -54,6 +53,7 @@
   - 白色 [SO1602AWWB-UC-WB-U](https://akizukidenshi.com/catalog/g/gP-08277/)
   - 緑色 [SO1602AWGB-UC-WB-U](https://akizukidenshi.com/catalog/g/gP-08276/)
   - 黄色 [SO1602AWYB-UC-WB-U](https://akizukidenshi.com/catalog/g/gP-08278/)
+  - この秋月で販売されるモジュールには、細ピンヘッダーが付属します [細ピンヘッダー](https://akizukidenshi.com/catalog/g/gC-06631/) x1
 - CherryMX 互換キースイッチ x 21 (2U が 3 キーの場合) ~ 24(全て 1U の場合)
   - [遊舎工房](https://shop.yushakobo.jp/collections/all-switches)
   - [TALP Keyboard](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d)
@@ -268,7 +268,7 @@ NOR ゲートを向きに気をつけて差し込みます。
 
 ![](images/11.1.jpg)
 
-丸ピン連結ピンを差し込み、さらに上から OLED キャラクターディスプレイを差し込みます。PCB と 7mm スペーサーも、4mm ネジで留めます。OLED キャラクターディスプレイと、PCB の両方をはんだづけします。
+OLED キャラクターディスプレイ付属の細ピンヘッダーを差し込み、さらに上から OLED キャラクターディスプレイを差し込みます。PCB と 8mm スペーサーも、4mm ネジで留めます。OLED キャラクターディスプレイと、PCB の両方をはんだづけします。
 
 ![](images/11.2.jpg)
 
