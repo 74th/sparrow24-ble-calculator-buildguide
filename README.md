@@ -1,16 +1,33 @@
-# Sparrow62 BLE Calculator ビルドガイド
+# Sparrow24 BLE Calculator ビルドガイド
+
+![](./images/product1.jpg)
+
+『Sparrow24 BLE Calculator 自作キーボードキット』とは、Bluetooth テンキーキーボードと電卓が合体したガジェットが作れるキットです。
 
 ## 特徴
 
-- ESP32 マイコンを用いて、Bluetooth キーボードとして動作するテンキーパッド（ESP32 なので技適は問題なし）
-- モードを切り替えると電卓として動作する
-- 電卓の結果を、Bluetooth キーボードのキーとして送ることができる
-- 乾電池と USB 電源のどちらでも使える
+- ESP32 マイコンを用いて、Bluetooth キーボードとして動作するテンキーパッド（ESP32 なので技適は問題なし）です。
+- モードを切り替えると電卓として動作します。
+- 電卓の結果を、Bluetooth キーボードのキーとして送ることができます。
+- 乾電池と USB 電源のどちらでも使えます（ただし電池ホルダーは付属しません）。
+- ファームウェアを書き込む UART に容易にアクセスでき、ファームウェアを更新することができます。
+- ファームウェアはオープンソースとして公開しています。ぜひ機能をリクエストいただいたり、開発に参加ください。 https://github.com/74th/sparrow24-ble-calculator-firmware
+
+## リソース
+
+- 回路図: [https://github.com/74th/sparrow24-ble-calculator-firmware/blob/main/docs/semantics.pdf](https://github.com/74th/sparrow24-ble-calculator-firmware/blob/main/docs/semantics.pdf)
+- ビルドガイド: 本リポジトリ
+- ファームウェアリポジトリ: [https://github.com/74th/sparrow24-ble-calculator-firmware/](https://github.com/74th/sparrow24-ble-calculator-firmware/)
 
 ### 注意
 
-- USB Type-C 端子 は電源専用です
+- これは完成品の提供ではなく、ご自身で組み立てが必要なキットです。完成を保証するものではありません。動作しない場合には、質問などは受け付けますが、完成までのサポートを保証するものではありません。御理解の上での購入をお願いします。
+- ESP32 の Bluetooth は時折接続不良を起こす場合があります。接続不良だからといっても、交換に応じることはできません。
+- これはアマチュア創作作品として作成した自作キーボードキットです。高い完成度を誇るものではありません。
+- USB Type-C 端子 は電源専用です。USB キーボードとして動作はしません。
 - 電池での電源に対応しますが、電池用の電源を供給する端子を用意するのみで、電池ケースなどは付属していません。
+- ファームウェアはオープンソースとして開発中のものです。
+- QMK Firmware を利用することはできません。
 
 ## BOM 部品表
 
