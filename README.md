@@ -343,7 +343,9 @@ UART、JTAG のそれぞれの箇所にピンソケットを差し込み、マ�
 ファームウェアのアップロードには、以下の機材が必要です。
 
 - UART USB シリアル変換
-  - [CH340E USB シリアル変換モジュール Type-C AE-CH340E-TYPEC](https://akizukidenshi.com/catalog/g/gK-14745/) など
+  - [CH340E USB シリアル変換モジュール Type-C AE-CH340E-TYPEC](https://akizukidenshi.com/catalog/g/gK-14745/) 
+  - [KKHMF CH340モジュール STC マイクロ コントローラー ダウンロード USBターンTTLシリアル](https://www.amazon.co.jp/dp/B014VVPZT4/) ([Windows用ドライバ](http://www.wch-ic.com/downloads/CH341SER_EXE.html))
+  - など
 - ブレットボード用ジャンパ線 （USB シリアル変換と、UART ポートをつなげるもの）
   - https://akizukidenshi.com/catalog/g/gC-05371/
   - https://www.amazon.co.jp/dp/B07LG6R78R/
