@@ -38,24 +38,24 @@
 - PCB x1
 - トッププレート x1
 - ボトムプレート x1
-- [ESP32-WROOM-32/32D/32E](https://akizukidenshi.com/catalog/g/gM-15675/) x1
-- 3.3V 4 端子 レギュレーター [PQ3RD23](https://akizukidenshi.com/catalog/g/gI-01177/)/[NJM2396F33](https://akizukidenshi.com/catalog/g/gI-09261/) x2
-- RGBLED [SK6812MINI-E](https://akizukidenshi.com/catalog/g/gI-15478/) x1
-- NOR ゲート [TC74HC02AP](https://akizukidenshi.com/catalog/g/gI-11489/) x1
-- [スイッチングダイオード 1N4148](https://akizukidenshi.com/catalog/g/gI-00941/) x32
-- [ショットキーダイオード SBM1045VSS](https://akizukidenshi.com/catalog/g/gI-06168/) x2
-- [電解コンデンサ 22uF](https://akizukidenshi.com/catalog/g/gP-03177/) x2
-- [電解コンデンサ 10uF](https://akizukidenshi.com/catalog/g/gP-03116/) x1
-- [抵抗 5.1k](https://akizukidenshi.com/catalog/g/gR-16512/) x1
-- [抵抗 4.7k](https://akizukidenshi.com/catalog/g/gR-16472/) x2
-- [抵抗 10k](https://akizukidenshi.com/catalog/g/gR-16103/) x4
+- [ESP32-WROOM-32/32D/32E](https://akizukidenshi.com/catalog/g/g115675/) x1
+- 3.3V 4 端子 レギュレーター [PQ3RD23](https://akizukidenshi.com/catalog/g/g101177/)/[NJM2396F33](https://akizukidenshi.com/catalog/g/g109261/) x2
+- RGBLED [SK6812MINI-E](https://akizukidenshi.com/catalog/g/g115478/) x1
+- NOR ゲート [TC74HC02AP](https://akizukidenshi.com/catalog/g/g111489/) x1
+- [スイッチングダイオード 1N4148](https://akizukidenshi.com/catalog/g/g100941/) x32
+- [ショットキーダイオード SBM1045VSS](https://akizukidenshi.com/catalog/g/g106168/) x2
+- [電解コンデンサ 22uF](https://akizukidenshi.com/catalog/g/g103177/) x2
+- [電解コンデンサ 10uF](https://akizukidenshi.com/catalog/g/g103116/) x1
+- [抵抗 5.1k](https://akizukidenshi.com/catalog/g/g116512/) x1
+- [抵抗 4.7k](https://akizukidenshi.com/catalog/g/g116472/) x2
+- [抵抗 10k](https://akizukidenshi.com/catalog/g/g116103/) x4
 - [4 ピン タクトスイッチ](TS-0606-F-N-BLK) x3
-- [スライドスイッチ SS-12D00-G5](https://akizukidenshi.com/catalog/g/gP-08790/) x1
-- [電源用 USB Type-C コネクタ UJC-HP-3-SMT-TR](https://akizukidenshi.com/catalog/g/gC-16438/) x3
-- [ピンソケット 1x6 UART 用](https://akizukidenshi.com/catalog/g/gC-05779/) x1
-- [ピンソケット 1x7 JTAG 用](https://akizukidenshi.com/catalog/g/gC-05779/) x1
-- [ピンソケット 1x2 電池電源用](https://akizukidenshi.com/catalog/g/gC-05779/) x1
-- [丸ピンソケット 1x14 OLED 用](https://akizukidenshi.com/catalog/g/gP-01591/) x1
+- [スライドスイッチ SS-12D00-G5](https://akizukidenshi.com/catalog/g/g108790/) x1
+- [電源用 USB Type-C コネクタ UJC-HP-3-SMT-TR](https://akizukidenshi.com/catalog/g/g116438/) x3
+- [ピンソケット 1x6 UART 用](https://akizukidenshi.com/catalog/g/g105779/) x1
+- [ピンソケット 1x7 JTAG 用](https://akizukidenshi.com/catalog/g/g105779/) x1
+- [ピンソケット 1x2 電池電源用](https://akizukidenshi.com/catalog/g/g105779/) x1
+- [丸ピンソケット 1x14 OLED 用](https://akizukidenshi.com/catalog/g/g101591/) x1
 - [M2 4mm ネジ](https://www.monotaro.com/p/4926/2744/?displayId=5) x12
 - [M2 8mm ネジ](https://www.monotaro.com/p/4926/2586/) x6
 - [M2 7mm スペーサー](https://www.monotaro.com/p/1115/0773/) x4
@@ -67,10 +67,10 @@
 キースイッチのうち 2U の 3 つは、1U x2 としても使えるようになっております。
 
 - 有機 EL 16 文字 2 行 キャラクターディスプレイモジュール x1
-  - 白色 [SO1602AWWB-UC-WB-U](https://akizukidenshi.com/catalog/g/gP-08277/)
-  - 緑色 [SO1602AWGB-UC-WB-U](https://akizukidenshi.com/catalog/g/gP-08276/)
-  - 黄色 [SO1602AWYB-UC-WB-U](https://akizukidenshi.com/catalog/g/gP-08278/)
-  - この秋月で販売されるモジュールには、細ピンヘッダーが付属します [細ピンヘッダー](https://akizukidenshi.com/catalog/g/gC-06631/) x1
+  - 白色 [SO1602AWWB-UC-WB-U](https://akizukidenshi.com/catalog/g/g108277/)
+  - 緑色 [SO1602AWGB-UC-WB-U](https://akizukidenshi.com/catalog/g/g108276/)
+  - 黄色 [SO1602AWYB-UC-WB-U](https://akizukidenshi.com/catalog/g/g108278/)
+  - この秋月で販売されるモジュールには、細ピンヘッダーが付属します [細ピンヘッダー](https://akizukidenshi.com/catalog/g/g106631/) x1
 - CherryMX 互換キースイッチ x 21 (2U が 3 キーの場合) ~ 24(全て 1U の場合)
   - [遊舎工房](https://shop.yushakobo.jp/collections/all-switches)
   - [TALP Keyboard](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d)
@@ -107,9 +107,9 @@
 
 - PC(Mac/Windows/Linux)
 - UART USB シリアル変換
-  - [CH340E USB シリアル変換モジュール Type-C AE-CH340E-TYPEC](https://akizukidenshi.com/catalog/g/gK-14745/) など
+  - [CH340E USB シリアル変換モジュール Type-C AE-CH340E-TYPEC](https://akizukidenshi.com/catalog/g/g114745/) など
 - ブレットボード用ジャンパ線 （USB シリアル変換と、UART ポートをつなげるもの）
-  - https://akizukidenshi.com/catalog/g/gC-05371/
+  - https://akizukidenshi.com/catalog/g/g105371/
   - https://www.amazon.co.jp/dp/B07LG6R78R/
 - USB ケーブル
 
@@ -343,11 +343,11 @@ UART、JTAG のそれぞれの箇所にピンソケットを差し込み、マ�
 ファームウェアのアップロードには、以下の機材が必要です。
 
 - UART USB シリアル変換
-  - [CH340E USB シリアル変換モジュール Type-C AE-CH340E-TYPEC](https://akizukidenshi.com/catalog/g/gK-14745/) 
-  - [KKHMF CH340モジュール STC マイクロ コントローラー ダウンロード USBターンTTLシリアル](https://www.amazon.co.jp/dp/B014VVPZT4/) ([Windows用ドライバ](http://www.wch-ic.com/downloads/CH341SER_EXE.html))
+  - [CH340E USB シリアル変換モジュール Type-C AE-CH340E-TYPEC](https://akizukidenshi.com/catalog/g/g114745/)
+  - [KKHMF CH340 モジュール STC マイクロ コントローラー ダウンロード USB ターン TTL シリアル](https://www.amazon.co.jp/dp/B014VVPZT4/) ([Windows 用ドライバ](http://www.wch-ic.com/downloads/CH341SER_EXE.html))
   - など
 - ブレットボード用ジャンパ線 （USB シリアル変換と、UART ポートをつなげるもの）
-  - https://akizukidenshi.com/catalog/g/gC-05371/
+  - https://akizukidenshi.com/catalog/g/g105371/
   - https://www.amazon.co.jp/dp/B07LG6R78R/
 - USB ケーブル
 
